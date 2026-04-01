@@ -1,0 +1,2 @@
+Nextflow version used in this analysis: 24.10.0
+nf-core/cutandrun version used in this analysis: 3.2.1

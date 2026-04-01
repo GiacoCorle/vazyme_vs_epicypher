@@ -1,0 +1,10 @@
+name: macs2
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - macs2
+  - bedtools
+  - samtools
